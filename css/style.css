@@ -6,7 +6,7 @@ padding-right: 20px;
 }
 .d1{
 background-color: red;
-border: solid black 2px;
+border: solid dotted black 2px;
 margin: 30px;
 padding: 20px;
 width: 75%;
@@ -14,7 +14,7 @@ height: 300px;
 }
 .d2{
 background-color: #188417;
-border: solid #2112CD 10px;
+border-style:dotted solid; #2112CD
 margin: 10px;
 padding: 20px;
 width: 50%;
